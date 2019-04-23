@@ -40,7 +40,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Dietrich Kammer** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Dietrich Kammer** - *Initial work* - [dkammer](https://github.com/dkammer)
 * **Mandy Keck** - *Inventor of the Construction Kit* - [visual-search.org](http://www.visual-search.org)
 * **Tobias Rother** - *JSON schema* - [tobiasrother](https://github.com/tobiasrother)
 
