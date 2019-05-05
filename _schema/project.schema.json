@@ -1,0 +1,46 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "http://cobro.com/project.schema.json",
+	"title": "Project",
+	"description": "A project",
+	"type": "object",
+	"properties": {
+		"titel": {
+			"description": "The titel of the project",
+			"type": "string"
+		},
+		"constructionplan": {
+			"description": "The CP of the project",
+			"type": "string"
+		},
+		"context": {
+			"description": "The context in which the project makes sense",
+			"type": "string"
+		},
+		"thumbnail": {
+			"description": "an array of thumbnails for the project",
+			"type": "array",
+			"items": {
+				"type": "string"
+			},
+			"uniqueItems": true
+		},
+		"domain": {
+			"description": "The domain of the project",
+			"type": "string"
+		},
+		"author": {
+			"description": "The author of the project",
+			"type": "string"
+		},
+		"URL": {
+			"description": "an URL of the project",
+			"type": "string"
+		},
+		"editor": {
+			"description": "The editor who uploaded the project",
+			"type": "string"
+		}
+	},
+	"required": [ "titel", "constructionplan", "editor" ]
+}

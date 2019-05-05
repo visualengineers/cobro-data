@@ -1,0 +1,41 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "http://cobro.com/pattern.schema.json",
+	"title": "Pattern",
+	"description": "A pattern for constructionplans",
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "The unique identifier for a pattern",
+			"type": "string"
+		},
+		"what": {
+			"description": "Construction Blocks for the What Area",
+			"type": "array",
+			"items": {
+				"type": "integer"
+			},
+			"minItems": 1,
+			"uniqueItems": true
+		},
+		"why": {
+			"description": "Construction Blocks for the Why Area",
+			"type": "array",
+			"items": {
+				"type": "integer"
+			},
+			"minItems": 1,
+			"uniqueItems": true
+		},
+		"how": {
+			"description": "Construction Blocks for the How Area",
+			"type": "array",
+			"items": {
+				"type": "integer"
+			},
+			"minItems": 1,
+			"uniqueItems": true
+		}
+	},
+	"required": [ "id", "what", "why", "how" ]
+}
