@@ -1,0 +1,28 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "https://raw.githubusercontent.com/visualengineers/cobro-data/master/_schema/assets.schema.json",
+	"title": "Construction Block",
+	"description": "A construction block for patterns",
+	"type": "array",
+	"items": {
+		"type": "object",
+		"properties": {
+			"id": {
+				"description": "The unique identifier for a block",
+				"type": "integer",
+				"exclusiveMinimum": 0
+			},
+			"name": {
+				"description": "Name of the block",
+				"type": "string"
+			},
+			"parent": {
+				"description": "The unique identifier for the block in the hierarchy above this block ",
+				"type": "integer",
+				"minimum": 0
+			}
+		},
+		"required": [ "id", "name", "parent" ]
+	},
+	"uniqueItems": true
+}
