@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"$id": "https://raw.githubusercontent.com/visualengineers/cobro-data/master/_schema/assets.schema.json",
+	"$id": "https://raw.githubusercontent.com/visualengineers/cobro-data/master/_schema/blocks.schema.json",
 	"title": "Construction Block",
 	"description": "A construction block for patterns",
 	"type": "array",
