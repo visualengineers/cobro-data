@@ -29,12 +29,12 @@
 						"enum": ["superimposed", "juxtaposed", "successive"]
 					},
 					"source": {
-						"description": "pattern one",
-						"type": "string"
+						"description": "index of pattern one",
+						"type": "integer"
 					},
 					"target": {
-						"description": "pattern two",
-						"type": "string"
+						"description": "index of pattern two",
+						"type": "integer"
 					},
 					"directed": {
 						"description": "if the edge is directed",
@@ -51,16 +51,16 @@
 				"type": "object",
 				"properties": {
 					"source": {
-						"description": "source pattern",
-						"type": "string"
+						"description": "index of source pattern",
+						"type": "integer"
 					},
 					"source_block": {
 						"description": "id of the reference block",
 						"type": "integer"
 					},
 					"target": {
-						"description": "target pattern",
-						"type": "string"
+						"description": "index of target pattern",
+						"type": "integer"
 					}
 				},
 				"required": [ "source", "source_block", "target" ]
