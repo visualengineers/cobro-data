@@ -1,4 +1,6 @@
 {
     "id": "cp001",
-    "pattern": ["pattern_A"]
+    "pattern": [
+        "radialhighlight"
+    ]
 }
