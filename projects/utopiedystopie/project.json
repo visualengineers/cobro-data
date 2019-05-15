@@ -1,0 +1,11 @@
+{
+    "id": "utopiedystopie",
+    "titel" : "Utopie - Dystopie",
+    "constructionplan": "cp001",
+    "context" : "fiction",
+    "thumbnail" : [ "pic1", "pic2", "pic3" ],
+    "domain" : "science",
+    "author" : "TBD",
+    "URL" : "www.dystopia-utopia.com",
+    "editor" : "TBD" 
+}
