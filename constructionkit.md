@@ -11,8 +11,8 @@ Stucture of the IDs is as follows:
 
 ## Structure
 
-|  |Category|Group|Element|ID|
-|--|--|--|--|--|
+|  |Category|Group|Element|ID|Icon|
+|--|--|--|--|--|--|
 |**WHAT**|||		|1000000|
 ||Data Structure||	|1010000|
 |||Network|		|1010100|
@@ -42,19 +42,19 @@ Stucture of the IDs is as follows:
 |**HOW**|||		|3000000|
 ||Visual Element||	|3010000|
 |||Text|		|3010100|	
-||||Text		|3010101|
+||||Text		|3010101| <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/icons/icon_3010101.png" width="60" height="60">
 |||Image|		|3010200|
-||||Image		|3010201|
+||||Image		|3010201| <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/icons/icon_3010201.png" width="60" height="60">
 |||Form|		|3010300|
-||||Point		|3010301|
-||||Icon		|3010302|
-||||Glyph		|3010303|
-||||Line		|3010304|
-||||Area		|3010305|
-||||Flow		|3010306|
+||||Point		|3010301| <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/icons/icon_3010301.png" width="60" height="60">
+||||Icon		|3010302| <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/icons/icon_3010302.png" width="60" height="60">
+||||Glyph		|3010303| <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/icons/icon_3010303.png" width="60" height="60">
+||||Line		|3010304| <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/icons/icon_3010304.png" width="60" height="60">
+||||Area		|3010305| <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/icons/icon_3010305.png" width="60" height="60">
+||||Flow		|3010306| <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/icons/icon_3010306.png" width="60" height="60">
 ||Grid||		|3020000|
 |||Rectangular|		|3020100|
-||||Rectangular		|3020101|
+||||Rectangular		|3020101| <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/icons/icon_3020101.png" width="60" height="60">
 |||Radial|		|3020200|
 ||||Radial		|3020201|
 |||Triangular|		|3020300|
