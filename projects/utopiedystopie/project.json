@@ -3,9 +3,9 @@
     "titel" : "Utopie - Dystopie",
     "constructionplan": "cp001",
     "context" : "fiction",
-    "thumbnail" : [ "pic1", "pic2", "pic3" ],
+    "thumbnail" : [ "pic1" ],
     "domain" : "science",
-    "author" : "TBD",
+    "author" : "Selcuk Artut",
     "URL" : "www.dystopia-utopia.com",
-    "editor" : "TBD" 
+    "editor" : "ChevapGG" 
 }
