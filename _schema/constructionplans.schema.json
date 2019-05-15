@@ -36,12 +36,12 @@
 						"description": "pattern two",
 						"type": "string"
 					},
-					"direction": {
-						"description": "has the edge a direction?",
+					"directed": {
+						"description": "if the edge is directed",
 						"type": "boolean"
 					}
 				},
-				"required": [ "type", "source", "target", "direction" ]
+				"required": [ "type", "source", "target", "directed" ]
 			}
 		},
 		"reference": {
