@@ -32,8 +32,8 @@ Stucture of the IDs is as follows:
 ||Attribute Type||	|1020000|
 |||Categorical|		|1020100|
 ||||Nominal		|1020101|
-|||Orderd|		|1020200|
-||||Ordial		|1020201|
+|||Ordered|		|1020200|
+||||Ordinal		|1020201|
 ||||Quantitative	|1020202|
 |**WHY**|||		|2000000|
 ||Summarize||		|2010000|

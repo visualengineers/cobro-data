@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"$id": "http://cobro.com/pattern.schema.json",
+	"$id": "https://raw.githubusercontent.com/visualengineers/cobro-data/master/_schema/pattern.schema.json",
 	"title": "Pattern",
 	"description": "A pattern for constructionplans",
 	"type": "object",
