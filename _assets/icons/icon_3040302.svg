@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="67.667px" height="67.666px" viewBox="0 0 67.667 67.666" enable-background="new 0 0 67.667 67.666" xml:space="preserve">
+<g>
+	<defs>
+		<polygon id="SVGID_7_" points="189.333,-300.601 729.333,-299.144 729.333,342 189.333,340.543 		"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_7_"  overflow="visible"/>
+	</clipPath>
+</g>
+<g>
+	<defs>
+		<polygon id="SVGID_9_" points="189.333,-300.601 729.333,-299.144 729.333,342 189.333,340.543 		"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_9_"  overflow="visible"/>
+	</clipPath>
+</g>
+<rect x="21.328" y="23.953" fill="#3D2877" width="6.58" height="7.239"/>
+<rect x="29.86" y="23.953" fill="#3D2877" width="6.58" height="7.239"/>
+<rect x="38.392" y="23.953" fill="#3D2877" width="6.581" height="7.239"/>
+<rect x="21.328" y="33.253" fill="#3D2877" width="6.58" height="7.242"/>
+<rect x="29.86" y="33.253" fill="#3D2877" width="6.58" height="7.242"/>
+<rect x="38.392" y="33.253" fill="#3D2877" width="6.581" height="7.242"/>
+<rect x="21.328" y="42.494" fill="#3D2877" width="6.58" height="7.241"/>
+<rect x="29.86" y="42.494" fill="#3D2877" width="6.58" height="7.241"/>
+<rect x="38.392" y="42.494" fill="#3D2877" width="6.581" height="7.241"/>
+<rect x="46.924" y="23.981" fill="#3D2877" width="6.582" height="7.245"/>
+<rect x="46.924" y="33.283" fill="#3D2877" width="6.582" height="7.243"/>
+<rect x="46.924" y="42.523" fill="#3D2877" width="6.582" height="7.241"/>
+<text transform="matrix(1 0 0 1.1007 13.7314 30.4004)" fill="#3D2877" font-family="'UniversLTStd'" font-size="6.5285">1</text>
+<text transform="matrix(1 0 0 1.1007 13.7314 40.0156)" fill="#3D2877" font-family="'UniversLTStd'" font-size="6.5285">2</text>
+<text transform="matrix(1 0 0 1.1007 13.7314 49.6377)" fill="#3D2877" font-family="'UniversLTStd'" font-size="6.5285">3</text>
+<text transform="matrix(1 0 0 1.1007 22.2056 21.1016)" fill="#3D2877" font-family="'UniversLTStd'" font-size="6.5285">A</text>
+<text transform="matrix(1 0 0 1.1007 30.9346 21.1016)" fill="#3D2877" font-family="'UniversLTStd'" font-size="6.5285">B</text>
+<text transform="matrix(1 0 0 1.1007 39.481 21.1016)" fill="#3D2877" font-family="'UniversLTStd'" font-size="6.5285">C</text>
+<text transform="matrix(1 0 0 1.1007 47.8501 21.1016)" fill="#3D2877" font-family="'UniversLTStd'" font-size="6.5285">D</text>
+<rect x="9.333" y="9" fill="none" stroke="#3E2779" stroke-miterlimit="10" width="48.571" height="48.571"/>
+</svg>
