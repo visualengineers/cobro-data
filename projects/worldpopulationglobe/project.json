@@ -1,0 +1,14 @@
+{
+    "id": "worldpopulationglobe",
+    "titel": "World Population, Globe Map",
+    "constructionplan": "cp002",
+    "context": "",
+    "thumbnail": [
+        "pic1.png",
+        "pic2.png"
+    ],
+    "domain": "",
+    "author": "Google Data Arts Team",
+    "URL": "https://globe.chromeexperiments.com",
+    "editor": "tobiasrother"
+}
