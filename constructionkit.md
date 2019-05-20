@@ -107,4 +107,4 @@ Stucture of the IDs is as follows:
 ||||Filter		|3050209|
 ||||Aggregate		|3050210|
 ||||Reposition		|3050211|
-||||Text		|3050212|
+||||Type		|3050212|
