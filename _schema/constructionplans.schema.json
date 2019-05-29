@@ -1,0 +1,71 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "https://raw.githubusercontent.com/visualengineers/cobro-data/master/_schema/constructionplans.schema.json",
+	"title": "Constructionplan",
+	"description": "A constructionplan for projects",
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "a unique ID for the CP",
+			"type": "string"
+		},
+		"pattern":{
+			"description": "a array of IDs of all the involved pattern",
+			"type": "array",
+			"items": {
+				"type": "string"
+			},
+			"minItems": 1
+		},
+		"edges": {
+			"description": "how the pattern are connected",
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"type": {
+						"description": "possible types are superimposed, juxtaposed, successive",
+						"type": "string",
+						"enum": ["superimposed", "juxtaposed", "successive"]
+					},
+					"source": {
+						"description": "index of pattern one",
+						"type": "integer"
+					},
+					"target": {
+						"description": "index of pattern two",
+						"type": "integer"
+					},
+					"directed": {
+						"description": "if the edge is directed",
+						"type": "boolean"
+					}
+				},
+				"required": [ "type", "source", "target", "directed" ]
+			}
+		},
+		"reference": {
+			"description": "Reference from interaction block to another pattern",
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"source": {
+						"description": "index of source pattern",
+						"type": "integer"
+					},
+					"source_block": {
+						"description": "id of the reference block",
+						"type": "integer"
+					},
+					"target": {
+						"description": "index of target pattern",
+						"type": "integer"
+					}
+				},
+				"required": [ "source", "source_block", "target" ]
+			}
+		}
+	},
+	"required": [ "id", "pattern" ]
+}

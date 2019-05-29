@@ -1,0 +1,477 @@
+[
+ {
+   "id": 1000000,
+   "name": "WHAT",
+   "parent": 0
+ },
+ {
+   "id": 1010000,
+   "name": "Data Structure",
+   "parent": 1000000
+ },
+ {
+   "id": 1010100,
+   "name": "Network",
+   "parent": 1010000
+ },
+ {
+   "id": 1010101,
+   "name": "Hierarchy",
+   "parent": 1010100
+ },
+ {
+   "id": 1010102,
+   "name": "Faceted Classification",
+   "parent": 1010100
+ },
+ {
+   "id": 1010103,
+   "name": "Ontology",
+   "parent": 1010100
+ },
+ {
+   "id": 1010104,
+   "name": "Folksonomy",
+   "parent": 1010100
+ },
+ {
+   "id": 1010200,
+   "name": "1-Dimensional",
+   "parent": 1010000
+ },
+ {
+   "id": 1010201,
+   "name": "Set",
+   "parent": 1010200
+ },
+ {
+   "id": 1010202,
+   "name": "Temporal",
+   "parent": 1010200
+ },
+ {
+   "id": 1010300,
+   "name": "2-Dimensional",
+   "parent": 1010000
+ },
+ {
+   "id": 1010301,
+   "name": "Spatial",
+   "parent": 1010300
+ },
+ {
+   "id": 1010400,
+   "name": "3-Dimensional",
+   "parent": 1010000
+ },
+ {
+   "id": 1010401,
+   "name": "Computer Model",
+   "parent": 1010400
+ },
+ {
+   "id": 1010500,
+   "name": "Multidimensional",
+   "parent": 1010000
+ },
+ {
+   "id": 1010501,
+   "name": "Table",
+   "parent": 1010500
+ },
+ {
+   "id": 1020000,
+   "name": "Attribute Type",
+   "parent": 1000000
+ },
+ {
+   "id": 1020100,
+   "name": "Categorical",
+   "parent": 1020000
+ },
+ {
+   "id": 1020101,
+   "name": "Nominal",
+   "parent": 1020100
+ },
+ {
+   "id": 1020200,
+   "name": "Ordered",
+   "parent": 1020000
+ },
+ {
+   "id": 1020201,
+   "name": "Ordinal",
+   "parent": 1020200
+ },
+ {
+   "id": 1020202,
+   "name": "Quantitative",
+   "parent": 1020200
+ },
+ {
+   "id": 2000000,
+   "name": "WHY",
+   "parent": 0
+ },
+ {
+   "id": 2010000,
+   "name": "Summarize",
+   "parent": 2000000
+ },
+ {
+   "id": 2020000,
+   "name": "Compare",
+   "parent": 2000000
+ },
+ {
+   "id": 2030000,
+   "name": "Identify",
+   "parent": 2000000
+ },
+ {
+   "id": 3000000,
+   "name": "HOW",
+   "parent": 0
+ },
+ {
+   "id": 3010000,
+   "name": "Visual Element",
+   "parent": 3000000
+ },
+ {
+   "id": 3010100,
+   "name": "Text",
+   "parent": 3010000
+ },
+ {
+   "id": 3010101,
+   "name": "Text",
+   "parent": 3010100
+ },
+ {
+   "id": 3010200,
+   "name": "Image",
+   "parent": 3010000
+ },
+ {
+   "id": 3010201,
+   "name": "Image",
+   "parent": 3010200
+ },
+ {
+   "id": 3010300,
+   "name": "Form",
+   "parent": 3010000
+ },
+ {
+   "id": 3010301,
+   "name": "Point",
+   "parent": 3010300
+ },
+ {
+   "id": 3010302,
+   "name": "Icon",
+   "parent": 3010300
+ },
+ {
+   "id": 3010303,
+   "name": "Glyph",
+   "parent": 3010300
+ },
+ {
+   "id": 3010304,
+   "name": "Line",
+   "parent": 3010300
+ },
+ {
+   "id": 3010305,
+   "name": "Area",
+   "parent": 3010300
+ },
+ {
+   "id": 3010306,
+   "name": "Flow",
+   "parent": 3010300
+ },
+ {
+   "id": 3020000,
+   "name": "Grid",
+   "parent": 3000000
+ },
+ {
+   "id": 3020100,
+   "name": "Rectangular",
+   "parent": 3020000
+ },
+ {
+   "id": 3020101,
+   "name": "Rectangular",
+   "parent": 3020100
+ },
+ {
+   "id": 3020200,
+   "name": "Radial",
+   "parent": 3020000
+ },
+ {
+   "id": 3020201,
+   "name": "Radial",
+   "parent": 3020200
+ },
+ {
+   "id": 3020300,
+   "name": "Triangular",
+   "parent": 3020000
+ },
+ {
+   "id": 3020301,
+   "name": "Triangular",
+   "parent": 3020300
+ },
+ {
+   "id": 3020400,
+   "name": "Free-form",
+   "parent": 3020000
+ },
+ {
+   "id": 3020401,
+   "name": "Free-form",
+   "parent": 3020400
+ },
+ {
+   "id": 3030000,
+   "name": "Spatiality",
+   "parent": 3000000
+ },
+ {
+   "id": 3030100,
+   "name": "Dimensionality",
+   "parent": 3030000
+ },
+ {
+   "id": 3030101,
+   "name": "2 Dimensional",
+   "parent": 3030100
+ },
+ {
+   "id": 3030102,
+   "name": "3 Dimensional",
+   "parent": 3030100
+ },
+ {
+   "id": 3040000,
+   "name": "Layout Structure",
+   "parent": 3000000
+ },
+ {
+   "id": 3040100,
+   "name": "0D",
+   "parent": 3040000
+ },
+ {
+   "id": 3040101,
+   "name": "Single",
+   "parent": 3040100
+ },
+ {
+   "id": 3040200,
+   "name": "1D",
+   "parent": 3040000
+ },
+ {
+   "id": 3040201,
+   "name": "List",
+   "parent": 3040200
+ },
+ {
+   "id": 3040202,
+   "name": "Tiles",
+   "parent": 3040200
+ },
+ {
+   "id": 3040300,
+   "name": "2D",
+   "parent": 3040000
+ },
+ {
+   "id": 3040301,
+   "name": "Bars",
+   "parent": 3040300
+ },
+ {
+   "id": 3040302,
+   "name": "Matrix",
+   "parent": 3040300
+ },
+ {
+   "id": 3040303,
+   "name": "Mosaic",
+   "parent": 3040300
+ },
+ {
+   "id": 3040304,
+   "name": "2D-Plot",
+   "parent": 3040300
+ },
+ {
+   "id": 3040305,
+   "name": "Cluster",
+   "parent": 3040300
+ },
+ {
+   "id": 3040400,
+   "name": "nD",
+   "parent": 3040000
+ },
+ {
+   "id": 3040401,
+   "name": "Parallel Plot",
+   "parent": 3040400
+ },
+ {
+   "id": 3040402,
+   "name": "Table",
+   "parent": 3040400
+ },
+ {
+   "id": 3040500,
+   "name": "Spatial",
+   "parent": 3040000
+ },
+ {
+   "id": 3040501,
+   "name": "Map",
+   "parent": 3040500
+ },
+ {
+   "id": 3040600,
+   "name": "Structured",
+   "parent": 3040000
+ },
+ {
+   "id": 3040601,
+   "name": "Node-Link",
+   "parent": 3040600
+ },
+ {
+   "id": 3040602,
+   "name": "Nested",
+   "parent": 3040600
+ },
+ {
+   "id": 3040603,
+   "name": "Indented",
+   "parent": 3040600
+ },
+ {
+   "id": 3040604,
+   "name": "Partitioned",
+   "parent": 3040600
+ },
+ {
+   "id": 3050000,
+   "name": "Interaction",
+   "parent": 3000000
+ },
+ {
+   "id": 3050100,
+   "name": "View Transformation",
+   "parent": 3050000
+ },
+ {
+   "id": 3050101,
+   "name": "Navigate",
+   "parent": 3050100
+ },
+ {
+   "id": 3050102,
+   "name": "Pan",
+   "parent": 3050100
+ },
+ {
+   "id": 3050103,
+   "name": "Rotate",
+   "parent": 3050100
+ },
+ {
+   "id": 3050104,
+   "name": "Inspect",
+   "parent": 3050100
+ },
+ {
+   "id": 3050105,
+   "name": "Zoom",
+   "parent": 3050100
+ },
+ {
+   "id": 3050106,
+   "name": "Distort",
+   "parent": 3050100
+ },
+ {
+   "id": 3050200,
+   "name": "Manipulation",
+   "parent": 3050000
+ },
+ {
+   "id": 3050201,
+   "name": "Exclude",
+   "parent": 3050200
+ },
+ {
+   "id": 3050202,
+   "name": "Select",
+   "parent": 3050200
+ },
+ {
+   "id": 3050203,
+   "name": "Remove",
+   "parent": 3050200
+ },
+ {
+   "id": 3050204,
+   "name": "Append",
+   "parent": 3050200
+ },
+ {
+   "id": 3050205,
+   "name": "Adjust",
+   "parent": 3050200
+ },
+ {
+   "id": 3050206,
+   "name": "Highlight",
+   "parent": 3050200
+ },
+ {
+   "id": 3050207,
+   "name": "Group",
+   "parent": 3050200
+ },
+ {
+   "id": 3050208,
+   "name": "Sort",
+   "parent": 3050200
+ },
+ {
+   "id": 3050209,
+   "name": "Filter",
+   "parent": 3050200
+ },
+ {
+   "id": 3050210,
+   "name": "Aggregate",
+   "parent": 3050200
+ },
+ {
+   "id": 3050211,
+   "name": "Reposition",
+   "parent": 3050200
+ },
+ {
+   "id": 3050212,
+   "name": "Text",
+   "parent": 3050200
+ }
+]

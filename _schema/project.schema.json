@@ -1,10 +1,14 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"$id": "http://cobro.com/project.schema.json",
+	"$id": "https://raw.githubusercontent.com/visualengineers/cobro-data/master/_schema/project.schema.json",
 	"title": "Project",
 	"description": "A project",
 	"type": "object",
 	"properties": {
+		"id": {
+			"description": "an unique id for the project",
+			"type": "string"
+		},
 		"titel": {
 			"description": "The titel of the project",
 			"type": "string"
@@ -42,5 +46,5 @@
 			"type": "string"
 		}
 	},
-	"required": [ "titel", "constructionplan", "editor" ]
+	"required": [ "id", "titel", "constructionplan", "editor" ]
 }
