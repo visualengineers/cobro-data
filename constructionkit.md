@@ -107,4 +107,4 @@ Stucture of the IDs is as follows:
 ||||Filter		|3050209| <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/icons/icon_3050209.png" width="60" height="60">
 ||||Aggregate		|3050210| <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/icons/icon_3050210.png" width="60" height="60">
 ||||Reposition		|3050211| <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/icons/icon_3050211.png" width="60" height="60">
-||||Text		|3050212| <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/icons/icon_3050212.png" width="60" height="60">
+||||Type		|3050212| <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/icons/icon_3050212.png" width="60" height="60">

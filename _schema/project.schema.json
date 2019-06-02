@@ -37,6 +37,10 @@
 			"description": "The author of the project",
 			"type": "string"
 		},
+		"authorcontact": {
+			"description": "to contact the author",
+			"type": "string"
+		},
 		"URL": {
 			"description": "an URL of the project",
 			"type": "string"
