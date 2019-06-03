@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"$id": "https://raw.githubusercontent.com/visualengineers/cobro-data/master/_schema/constructionplans.schema.json",
+	"$id": "https://raw.githubusercontent.com/visualengineers/cobro-data/master/_schema/constructionplan.schema.json",
 	"title": "Constructionplan",
 	"description": "A constructionplan for projects",
 	"type": "object",
