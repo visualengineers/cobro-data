@@ -35,6 +35,10 @@
 			},
 			"minItems": 1,
 			"uniqueItems": true
+		},
+		"graphic":{
+			"description": "if a graphic exists in the assets",
+			"type":"boolean"
 		}
 	},
 	"required": [ "id", "what", "why", "how" ]
