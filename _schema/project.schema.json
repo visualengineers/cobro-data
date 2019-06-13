@@ -9,8 +9,8 @@
 			"description": "an unique id for the project",
 			"type": "string"
 		},
-		"titel": {
-			"description": "The titel of the project",
+		"title": {
+			"description": "The title of the project",
 			"type": "string"
 		},
 		"constructionplan": {
@@ -50,5 +50,5 @@
 			"type": "string"
 		}
 	},
-	"required": [ "id", "titel", "constructionplan", "editor" ]
+	"required": [ "id", "title", "constructionplan", "editor" ]
 }
