@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="320px" height="180px" viewBox="0 0 320 180" enable-background="new 0 0 320 180" xml:space="preserve">
+<g>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="135.583" y="37.137" width="55.182" height="14.6">
+			<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+			<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="135.583" y="37.137" width="55.182" height="14.6" id="SVGID_2_">
+		<g filter="url(#Adobe_OpacityMaskFilter)">
+			<polyline fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" points="187.171,42.438 183.827,45.834 180.421,42.374 			"/>
+		</g>
+	</mask>
+	<rect x="135.583" y="37.137" mask="url(#SVGID_2_)" fill="#A1D5D3" width="55.182" height="14.6"/>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="135.583" y="60.049" width="55.182" height="14.6">
+			<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+			<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="135.583" y="60.049" width="55.182" height="14.6" id="SVGID_3_">
+		<g filter="url(#Adobe_OpacityMaskFilter_1_)">
+			<polyline fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" points="180.34,69.348 183.686,65.951 187.092,69.411 			"/>
+		</g>
+	</mask>
+	<rect x="135.583" y="60.049" mask="url(#SVGID_3_)" fill="#A1D5D3" width="55.182" height="14.6"/>
+	
+		<line fill="#A1D5D3" stroke="#A1D5D3" stroke-width="1.808" stroke-miterlimit="10" x1="140.855" y1="83.033" x2="185.745" y2="83.033"/>
+	
+		<line fill="#A1D5D3" stroke="#A1D5D3" stroke-width="1.808" stroke-miterlimit="10" x1="140.855" y1="90.35" x2="183.816" y2="90.35"/>
+	
+		<line fill="#A1D5D3" stroke="#A1D5D3" stroke-width="1.808" stroke-miterlimit="10" x1="140.855" y1="97.667" x2="168.22" y2="97.667"/>
+	
+		<rect x="130.518" y="60.507" fill="#A1D5D3" stroke="#A1D5D3" stroke-width="1.205" stroke-miterlimit="10" width="2.791" height="13.685"/>
+	
+		<rect x="130.518" y="106.197" fill="#A1D5D3" stroke="#A1D5D3" stroke-width="1.205" stroke-miterlimit="10" width="2.791" height="13.685"/>
+	<rect x="130.377" y="128.89" fill="none" stroke="#A1D5D3" stroke-miterlimit="10" width="2.933" height="13.686"/>
+	<rect x="130.377" y="37.5" fill="none" stroke="#A1D5D3" stroke-miterlimit="10" width="2.933" height="13.685"/>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="135.583" y="105.739" width="55.182" height="14.6">
+			<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+			<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="135.583" y="105.739" width="55.182" height="14.6" id="SVGID_4_">
+		<g filter="url(#Adobe_OpacityMaskFilter_2_)">
+			<polyline fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" points="187.171,111.041 183.827,114.438 180.421,110.977 			
+				"/>
+		</g>
+	</mask>
+	<rect x="135.583" y="105.739" mask="url(#SVGID_4_)" fill="#A1D5D3" width="55.182" height="14.6"/>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="135.583" y="128.433" width="55.182" height="14.6">
+			<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+			<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="135.583" y="128.433" width="55.182" height="14.6" id="SVGID_5_">
+		<g filter="url(#Adobe_OpacityMaskFilter_3_)">
+			<polyline fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" points="187.171,133.734 183.827,137.131 180.421,133.671 			
+				"/>
+		</g>
+	</mask>
+	<rect x="135.583" y="128.433" mask="url(#SVGID_5_)" fill="#A1D5D3" width="55.182" height="14.6"/>
+</g>
+</svg>
