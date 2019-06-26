@@ -3,13 +3,19 @@
 ## Introduction
 
 
+
+### Sources:
+
+DMK - Disseration Mandy Keck<br>
+NEW - new pattern
+
 ## Structure
 
-|Group|Name |Declaration | View|
-|--|--|--|--|
+|Group|Filename|Elements|View|Source|
+|--|--|--|--|--|
 |<b>Cluster</b>|
-||pattern_cluster         |general cluster of objects     |  <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/pattern/pattern_cluster.png" width="400">|
-||pattern_cluster_pixel   |cluster consisting of pixels   |  <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/pattern/pattern_cluster_pixel.png" width="400">|
-||pattern_cluster_glyphs  |cluster consisting of glyphs   |  <img src="https://raw.githubusercontent.com/visualengineers/cobro-data/master/_assets/pattern/pattern_cluster_glyphs.png" width="400">|
+||pattern_cluster         |<br>1010101<br>1020101<br>2020000<br>3010303<br>3010305<br>3020401<br>3040305<br>3050105<br>3050209|<img src="https://raw.githubusercontent.com/visualengineers/cobro-data/%231-grafics/_assets/pattern/pattern_cluster.png" width="400">|DMK Page 230|
+||pattern_cluster_pixel   |<br>1010301<br>1020101<br>1020201<br>1020202<br>2030000<br>3010301<br>3020401<br>3040305<br>3050102 <br>3050105<br>3050104<br>|<img src="https://raw.githubusercontent.com/visualengineers/cobro-data/%231-grafics/_assets/pattern/pattern_cluster_pixel.png" width="400">|DMK Page 223|
+||pattern_cluster_glyphs  |<br>1010501<br>1020101<br>1020201<br>1020202<br>2030000<br>3010303<br>3020401<br>3040305<br>3050102 <br>3050105<br>3050104<br>|<img src="https://raw.githubusercontent.com/visualengineers/cobro-data/%231-grafics/_assets/pattern/pattern_cluster_glyphs.png" width="400">|DMK Page 224|
 | | | |
 | | | |
