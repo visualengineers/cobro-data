@@ -21,7 +21,7 @@ A list of all element IDs of a pattern (Remember: 1... WHAT, 2... WHY, 3... HOW)
 
 |Name|File Name|Elements|View|Source|
 |--|--|--|--|--|
-|Flexible Bereiche|flexible_areas|1000000<br>2030000<br>3010305<br>3020101<br>3040602<br>3050203<br>3050204<br>3050205|<img src="https://raw.githubusercontent.com/visualengineers/cobro-data/%231-grafics/_assets/pattern/pattern_flexible_areas.png" width="400">|DMK Page 213|
+|Flexible Bereiche|flexible_areas|1010000<br>2030000<br>3010305<br>3020101<br>3040602<br>3050203<br>3050204<br>3050205|<img src="https://raw.githubusercontent.com/visualengineers/cobro-data/%231-grafics/_assets/pattern/pattern_flexible_areas.png" width="400">|DMK Page 213|
 |Mehrspaltiger Schlagwortfilter|multi-column_keyword_filter|1010104<br>2010000<br>3010101<br>3020101<br>3040201<br>3050201<br>3050202<br>3050209|<img src="https://raw.githubusercontent.com/visualengineers/cobro-data/%231-grafics/_assets/pattern/pattern_multi-column_keyword_filter.png" width="400">|DMK Page 214|
 |Gewichtete Bézierkurven|weighted_bezier-curves|1010104<br>2030000<br>3010304<br>3040601<br>3020101<br>---<br>3020201|<img src="https://raw.githubusercontent.com/visualengineers/cobro-data/%231-grafics/_assets/pattern/pattern_weighted_bezier-curves.png" width="400">|DMK Page 215|
 |Radiales Balkendiagramm|radial_bar_chart|1010104<br>1020101<br>1020202<br>2010000<br>2020000<br>2030000<br>3010101<br>3020201<br>3040301<br>3050204<br>3050209<br>---<br>3050103<br>3050105<br>3050104|<img src="https://raw.githubusercontent.com/visualengineers/cobro-data/%231-grafics/_assets/pattern/pattern_radial_bar_chart.png" width="400">|DMK Page 216|
