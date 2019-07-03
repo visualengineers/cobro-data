@@ -1,0 +1,15 @@
+{
+    "id": "weighted_bezier-curves",
+    "what": [
+        1010104
+    ],
+    "why": [
+        2030000
+    ],
+    "how": [
+        3010304,
+        3040601,
+        3020101
+    ],
+    "graphic": true
+}

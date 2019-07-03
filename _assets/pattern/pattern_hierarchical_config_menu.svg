@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="320px" height="180px" viewBox="0 0 320 180" enable-background="new 0 0 320 180" xml:space="preserve">
+<path fill="#A1D5D3" d="M160.129,67.271c-7.596,0-13.754,6.158-13.754,13.756c0,2.129,0.482,4.148,1.348,5.944
+	c0.048,0.102,12.406,24.322,12.406,24.322l12.265-24.021c0.959-1.872,1.495-3.996,1.495-6.245
+	C173.889,73.43,167.726,67.271,160.129,67.271 M160.129,89.282c-4.558,0-8.254-3.697-8.254-8.255c0-4.555,3.696-8.253,8.254-8.253
+	c4.559,0,8.258,3.698,8.258,8.253C168.387,85.585,164.688,89.282,160.129,89.282"/>
+<path fill="#A1D5D3" d="M116.274,86.397c0,12.43-10.076,22.505-22.504,22.505c-12.431,0-22.506-10.075-22.506-22.505
+	c0-12.429,10.075-22.505,22.506-22.505C106.198,63.893,116.274,73.969,116.274,86.397"/>
+<path fill="#A1D5D3" d="M224.76,129.677c0,10.834-8.787,19.619-19.619,19.619c-10.837,0-19.621-8.785-19.621-19.619
+	c0-10.836,8.784-19.621,19.621-19.621C215.973,110.056,224.76,118.841,224.76,129.677"/>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="199.082" y="41.1" width="43.855" height="43.854">
+		
+			<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+		<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+		<feBlend  in="source" in2="back" mode="normal"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="199.082" y="41.1" width="43.855" height="43.854" id="SVGID_2_">
+	<g filter="url(#Adobe_OpacityMaskFilter)">
+		<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M235.435,63.026c0,7.968-6.46,14.427-14.427,14.427
+			c-7.964,0-14.425-6.459-14.425-14.427s6.46-14.426,14.425-14.426C228.975,48.601,235.435,55.059,235.435,63.026z"/>
+	</g>
+</mask>
+<path mask="url(#SVGID_2_)" fill="#A1D5D3" d="M242.937,63.026c0,12.11-9.819,21.928-21.928,21.928
+	c-12.113,0-21.927-9.817-21.927-21.928S208.896,41.1,221.009,41.1C233.117,41.1,242.937,50.916,242.937,63.026"/>
+<circle fill="none" stroke="#A1D5D3" stroke-miterlimit="10" cx="93.769" cy="86.397" r="29.429"/>
+</svg>
