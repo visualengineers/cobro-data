@@ -1,23 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="67.667px" height="67.666px" viewBox="0 0 67.667 67.666" enable-background="new 0 0 67.667 67.666" xml:space="preserve">
-<rect x="24.431" y="22.499" fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" width="17.876" height="21.573"/>
-<polyline fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" points="47.689,38.301 47.689,39.381 
-	46.61,39.381 "/>
-<line fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="1.887,1.887" x1="44.573" y1="39.381" x2="21.147" y2="39.381"/>
-<polyline fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" points="20.129,39.381 19.049,39.381 
-	19.049,38.301 "/>
-<line fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="1.859,1.859" x1="19.049" y1="36.295" x2="19.049" y2="29.274"/>
-<polyline fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" points="19.049,28.271 19.049,27.19 
-	20.129,27.19 "/>
-<line fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="1.887,1.887" x1="22.166" y1="27.19" x2="45.591" y2="27.19"/>
-<polyline fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" points="46.61,27.19 47.689,27.19 47.689,28.271 
-	"/>
-<line fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="1.859,1.859" x1="47.689" y1="30.276" x2="47.689" y2="37.297"/>
-<line fill="#236666" x1="39.01" y1="33.286" x2="27.728" y2="33.286"/>
-<line fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="2,2" x1="34.753" y1="33.286" x2="27.728" y2="33.286"/>
-<polygon fill="#52702A" points="34.094,38.202 34.094,28.369 39.01,33.284 "/>
-<rect x="9.083" y="9" fill="none" stroke="#52702A" stroke-miterlimit="10" width="48.572" height="48.571"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="67.7" height="67.7">
+  <path fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" d="M24.4 22.5h17.9v21.6H24.4zM47.7 38.3v1h-1"/>
+  <path fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="1.887,1.887" d="M44.6 39.4H21.1"/>
+  <path fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" d="M20.1 39.4h-1v-1.1"/>
+  <path fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="1.859,1.859" d="M19 36.3v-7"/>
+  <path fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" d="M19 28.3v-1.1h1.1"/>
+  <path fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="1.887,1.887" d="M22.2 27.2h23.4"/>
+  <path fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" d="M46.6 27.2h1v1"/>
+  <path fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="1.859,1.859" d="M47.7 30.3v7"/>
+  <path fill="#236666" d="M39 33.3H27.7"/>
+  <path fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="2,2" d="M34.8 33.3h-7.1"/>
+  <path fill="#52702A" d="M34 38.2v-9.8l5 4.9z"/>
+  <path fill="none" stroke="#52702A" stroke-miterlimit="10" d="M9.1 9h48.6v48.6H9.1z"/>
 </svg>

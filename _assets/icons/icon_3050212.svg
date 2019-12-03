@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="67.667px" height="67.666px" viewBox="0 0 67.667 67.666" enable-background="new 0 0 67.667 67.666" xml:space="preserve">
-<rect x="17.781" y="28.275" fill="none" stroke="#52702A" stroke-miterlimit="10" width="33.48" height="8.278"/>
-<text transform="matrix(1 0 0 1 19.2529 33.7129)"><tspan x="0" y="0" fill="#52702A" font-family="'MyriadPro-Regular'" font-size="5.1509">A</tspan><tspan x="3.142" y="0" fill="#52702A" font-family="'MyriadPro-Regular'" font-size="5.1509">bc|</tspan></text>
-<rect x="9.083" y="8.5" fill="none" stroke="#52702A" stroke-miterlimit="10" width="48.571" height="48.571"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="67.67" height="67.67">
+  <path fill="none" stroke="#52702A" stroke-miterlimit="10" d="M17.78 28.27h33.48v8.28H17.78z"/>
+  <text transform="translate(19.25 33.71)">
+    <tspan x="0" y="0" fill="#52702A" font-family="'MyriadPro-Regular'" font-size="5.15">Abc|</tspan>
+  </text>
+  <path fill="none" stroke="#52702A" stroke-miterlimit="10" d="M9.08 8.5h48.57v48.57H9.08z"/>
 </svg>

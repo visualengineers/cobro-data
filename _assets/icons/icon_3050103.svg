@@ -1,29 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="67.667px" height="67.666px" viewBox="0 0 67.667 67.666" enable-background="new 0 0 67.667 67.666" xml:space="preserve">
-<g>
-	<defs>
-		<polygon id="SVGID_7_" points="432.083,-480.601 972.083,-479.144 972.083,162 432.083,160.543 		"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_7_"  overflow="visible"/>
-	</clipPath>
-</g>
-<g>
-	<defs>
-		<polygon id="SVGID_9_" points="432.083,-480.601 972.083,-479.144 972.083,162 432.083,160.543 		"/>
-	</defs>
-	<clipPath id="SVGID_4_">
-		<use xlink:href="#SVGID_9_"  overflow="visible"/>
-	</clipPath>
-</g>
-<path fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" d="M45.083,39.078
-	c0.866-1.748,1.366-3.711,1.366-5.792c0-7.229-5.861-13.088-13.087-13.088c-7.23,0-13.087,5.858-13.087,13.088
-	c0,7.228,5.857,13.087,13.087,13.087c1.218,0,2.392-0.179,3.512-0.491"/>
-<line fill="#236666" x1="43.3" y1="42.429" x2="45.491" y2="38.273"/>
-<line fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" x1="45.285" y1="38.664" x2="45.491" y2="38.273"/>
-<polygon fill="#52702A" points="41.244,35.787 49.943,40.374 43.3,42.429 "/>
-<rect x="9.075" y="9" fill="none" stroke="#52702A" stroke-miterlimit="10" width="48.571" height="48.571"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="67.7" height="67.7">
+  <defs>
+    <path id="a" d="M432-480.6l540 1.5V162l-540-1.5z"/>
+  </defs>
+  <defs>
+    <path id="b" d="M432-480.6l540 1.5V162l-540-1.5z"/>
+  </defs>
+  <path fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" d="M45 39a13 13 0 10-8.2 6.8"/>
+  <path fill="#236666" d="M43.3 42.4l2.2-4.1"/>
+  <path fill="none" stroke="#52702A" stroke-width="1.5" stroke-miterlimit="10" d="M45.3 38.7l.2-.4"/>
+  <path fill="#52702A" d="M41.2 35.8l8.7 4.6-6.6 2z"/>
+  <path fill="none" stroke="#52702A" stroke-miterlimit="10" d="M9.1 9h48.6v48.6H9.1z"/>
 </svg>

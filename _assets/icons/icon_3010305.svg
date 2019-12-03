@@ -1,33 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="67.667px" height="67.667px" viewBox="0 0 67.667 67.667" enable-background="new 0 0 67.667 67.667" xml:space="preserve">
-<g>
-	<defs>
-		<polygon id="SVGID_7_" points="431.833,-30.601 971.833,-29.144 971.833,612 431.833,610.543 		"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_7_"  overflow="visible"/>
-	</clipPath>
-</g>
-<g>
-	<defs>
-		<polygon id="SVGID_9_" points="431.833,-30.601 971.833,-29.144 971.833,612 431.833,610.543 		"/>
-	</defs>
-	<clipPath id="SVGID_4_">
-		<use xlink:href="#SVGID_9_"  overflow="visible"/>
-	</clipPath>
-</g>
-<path fill="#236666" d="M27.595,42.043c0-3.486-2.825-6.314-6.326-6.314c-3.475,0-6.301,2.828-6.301,6.314
-	c0,3.488,2.826,6.321,6.301,6.321C24.77,48.364,27.595,45.531,27.595,42.043"/>
-<path fill="none" stroke="#236666" stroke-width="0.25" stroke-miterlimit="10" d="M27.595,42.043c0-3.486-2.825-6.314-6.326-6.314
-	c-3.475,0-6.301,2.828-6.301,6.314c0,3.488,2.826,6.321,6.301,6.321C24.77,48.364,27.595,45.531,27.595,42.043z"/>
-<path fill="#236666" d="M51.27,39.607c0-5.041-4.075-9.111-9.115-9.111c-5.038,0-9.112,4.07-9.112,9.111
-	c0,5.032,4.074,9.111,9.112,9.111C47.194,48.718,51.27,44.64,51.27,39.607"/>
-<path fill="none" stroke="#236666" stroke-width="0.25" stroke-miterlimit="10" d="M51.27,39.607c0-5.041-4.075-9.111-9.115-9.111
-	c-5.038,0-9.112,4.07-9.112,9.111c0,5.032,4.074,9.111,9.112,9.111C47.194,48.718,51.27,44.64,51.27,39.607z"/>
-<rect x="21.81" y="17.854" fill="#236666" width="11.008" height="11.008"/>
-<rect x="21.81" y="17.854" fill="none" stroke="#236666" stroke-width="0.25" stroke-miterlimit="10" width="11.008" height="11.008"/>
-<rect x="8.833" y="9" fill="none" stroke="#236666" stroke-miterlimit="10" width="48.571" height="48.572"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="67.7" height="67.7">
+  <defs>
+    <path id="a" d="M432-31l540 2v641l-540-1z"/>
+  </defs>
+  <defs>
+    <path id="b" d="M432-31l540 2v641l-540-1z"/>
+  </defs>
+  <path fill="#236666" d="M28 42a6 6 0 10-13 0 6 6 0 0013 0"/>
+  <path fill="none" stroke="#236666" stroke-width=".3" stroke-miterlimit="10" d="M28 42a6 6 0 10-13 0 6 6 0 0013 0z"/>
+  <path fill="#236666" d="M51 40a9 9 0 10-18 0 9 9 0 0018 0"/>
+  <path fill="none" stroke="#236666" stroke-width=".3" stroke-miterlimit="10" d="M51 40a9 9 0 10-18 0 9 9 0 0018 0z"/>
+  <path fill="#236666" d="M22 18h11v11H22z"/>
+  <path fill="none" stroke="#236666" stroke-width=".3" stroke-miterlimit="10" d="M22 18h11v11H22z"/>
+  <path fill="none" stroke="#236666" stroke-miterlimit="10" d="M9 9h48v49H9z"/>
 </svg>

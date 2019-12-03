@@ -1,30 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="67.667px" height="67.666px" viewBox="0 0 67.667 67.666" enable-background="new 0 0 67.667 67.666" xml:space="preserve">
-<g>
-	<defs>
-		<polygon id="SVGID_7_" points="189.083,-390.601 729.083,-389.144 729.083,252 189.083,250.543 		"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_7_"  overflow="visible"/>
-	</clipPath>
-</g>
-<g>
-	<defs>
-		<polygon id="SVGID_9_" points="189.083,-390.601 729.083,-389.144 729.083,252 189.083,250.543 		"/>
-	</defs>
-	<clipPath id="SVGID_4_">
-		<use xlink:href="#SVGID_9_"  overflow="visible"/>
-	</clipPath>
-</g>
-<line fill="#52702A" x1="54.786" y1="33.631" x2="45.907" y2="33.631"/>
-<line fill="none" stroke="#52702A" stroke-miterlimit="10" x1="51.948" y1="33.631" x2="45.907" y2="33.631"/>
-<polygon fill="#52702A" points="51.508,36.909 51.508,30.354 54.786,33.631 "/>
-<line fill="#52702A" x1="11.952" y1="33.631" x2="20.798" y2="33.631"/>
-<line fill="none" stroke="#52702A" stroke-miterlimit="10" x1="14.789" y1="33.631" x2="20.798" y2="33.631"/>
-<polygon fill="#52702A" points="15.229,30.354 15.229,36.909 11.952,33.631 "/>
-<rect x="22.562" y="23.479" fill="#52702A" width="21.377" height="19.614"/>
-<rect x="9.083" y="9" fill="none" stroke="#52702A" stroke-miterlimit="10" width="48.571" height="48.571"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="67.7" height="67.7">
+  <defs>
+    <path id="a" d="M189-390.6l540 1.5V252l-540-1.5z"/>
+  </defs>
+  <defs>
+    <path id="b" d="M189-390.6l540 1.5V252l-540-1.5z"/>
+  </defs>
+  <path fill="#52702A" d="M54.8 33.6h-8.9"/>
+  <path fill="none" stroke="#52702A" stroke-miterlimit="10" d="M51.9 33.6h-6"/>
+  <path fill="#52702A" d="M51.5 37v-6.6l3.3 3.2zM12 33.6h8.8"/>
+  <path fill="none" stroke="#52702A" stroke-miterlimit="10" d="M14.8 33.6h6"/>
+  <path fill="#52702A" d="M15.2 30.4v6.5L12 33.6zM22.6 23.5H44v19.6H22.6z"/>
+  <path fill="none" stroke="#52702A" stroke-miterlimit="10" d="M9.1 9h48.6v48.6H9.1z"/>
 </svg>
