@@ -1,46 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="67.667px" height="67.667px" viewBox="0 0 67.667 67.667" enable-background="new 0 0 67.667 67.667" xml:space="preserve">
-<g>
-	<defs>
-		<polygon id="SVGID_7_" points="351.083,-210.851 891.083,-209.394 891.083,431.75 351.083,430.293 		"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_7_"  overflow="visible"/>
-	</clipPath>
-</g>
-<g>
-	<defs>
-		<polygon id="SVGID_9_" points="351.083,-210.851 891.083,-209.394 891.083,431.75 351.083,430.293 		"/>
-	</defs>
-	<clipPath id="SVGID_4_">
-		<use xlink:href="#SVGID_9_"  overflow="visible"/>
-	</clipPath>
-</g>
-<rect x="38.622" y="26.634" fill="#3D2877" width="7.477" height="5.384"/>
-<rect x="20.637" y="34.112" fill="#3D2877" width="7.48" height="5.384"/>
-<rect x="29.611" y="34.112" fill="#3D2877" width="7.478" height="5.384"/>
-<rect x="20.637" y="41.59" fill="#3D2877" width="7.48" height="5.384"/>
-<rect x="29.611" y="41.59" fill="#3D2877" width="7.478" height="5.384"/>
-<rect x="38.622" y="34.223" fill="#3D2877" width="7.477" height="12.75"/>
-<rect x="20.637" y="19.098" fill="#3D2877" width="16.452" height="13.633"/>
-<rect x="38.622" y="19.157" fill="#3D2877" width="7.477" height="5.384"/>
-<rect x="9.083" y="8.75" fill="none" stroke="#3E2779" stroke-miterlimit="10" width="48.571" height="48.571"/>
-<line fill="none" x1="0.083" y1="379.894" x2="0.083" y2="-261.25"/>
-<line fill="none" x1="0.083" y1="379.894" x2="0.083" y2="-261.25"/>
-<line fill="none" x1="0.083" y1="379.894" x2="0.083" y2="-261.25"/>
-<line fill="none" x1="0.083" y1="379.894" x2="0.083" y2="-261.25"/>
-<line fill="none" x1="0.083" y1="379.894" x2="0.083" y2="-261.25"/>
-<line fill="none" x1="0.083" y1="379.894" x2="0.083" y2="-261.25"/>
-<line fill="none" x1="0.083" y1="379.894" x2="0.083" y2="-261.25"/>
-<line fill="none" x1="0.083" y1="379.894" x2="0.083" y2="-261.25"/>
-<line fill="none" x1="0.083" y1="379.894" x2="0.083" y2="-261.25"/>
-<line fill="none" x1="0.083" y1="379.894" x2="0.083" y2="-261.25"/>
-<line fill="none" x1="0.083" y1="379.894" x2="0.083" y2="-261.25"/>
-<line fill="none" x1="0.083" y1="379.894" x2="0.083" y2="-261.25"/>
-<line fill="none" x1="0.083" y1="379.894" x2="0.083" y2="-261.25"/>
-<line fill="none" x1="0.083" y1="379.894" x2="0.083" y2="-261.25"/>
-<line fill="none" x1="0.083" y1="379.894" x2="0.083" y2="-261.25"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="67.7" height="67.7">
+  <defs>
+    <path id="a" d="M351-210.9l540 1.5v641.1l-540-1.4z"/>
+  </defs>
+  <defs>
+    <path id="b" d="M351-210.9l540 1.5v641.1l-540-1.4z"/>
+  </defs>
+  <path fill="#3D2877" d="M38.6 26.6h7.5V32h-7.5zM20.6 34.1h7.5v5.4h-7.5zM29.6 34.1h7.5v5.4h-7.5zM20.6 41.6h7.5V47h-7.5zM29.6 41.6h7.5V47h-7.5zM38.6 34.2h7.5V47h-7.5zM20.6 19.1h16.5v13.6H20.6zM38.6 19.2h7.5v5.4h-7.5z"/>
+  <path fill="none" stroke="#3E2779" stroke-miterlimit="10" d="M9.1 8.8h48.6v48.6H9.1z"/>
+  <path fill="none" d="M.1 379.9v-641.2M.1 379.9v-641.2M.1 379.9v-641.2M.1 379.9v-641.2M.1 379.9v-641.2M.1 379.9v-641.2M.1 379.9v-641.2M.1 379.9v-641.2M.1 379.9v-641.2M.1 379.9v-641.2M.1 379.9v-641.2M.1 379.9v-641.2M.1 379.9v-641.2M.1 379.9v-641.2M.1 379.9v-641.2"/>
 </svg>

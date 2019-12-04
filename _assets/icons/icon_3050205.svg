@@ -1,13 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="67.667px" height="67.666px" viewBox="0 0 67.667 67.666" enable-background="new 0 0 67.667 67.666" xml:space="preserve">
-<line fill="none" stroke="#52702A" stroke-width="2" stroke-miterlimit="10" x1="27.265" y1="22.853" x2="27.265" y2="32.834"/>
-<line fill="none" stroke="#52702A" stroke-width="2" stroke-miterlimit="10" x1="39.363" y1="32.743" x2="39.363" y2="43.719"/>
-<rect x="24.162" y="32.834" fill="none" stroke="#52702A" stroke-width="0.75" stroke-miterlimit="10" width="6.207" height="6.206"/>
-<rect x="36.171" y="26.358" fill="none" stroke="#52702A" stroke-width="0.75" stroke-miterlimit="10" width="6.385" height="6.385"/>
-<rect x="8.833" y="9" fill="none" stroke="#52702A" stroke-miterlimit="10" width="48.571" height="48.571"/>
-<line fill="none" stroke="#52702A" stroke-width="2" stroke-miterlimit="10" x1="39.363" y1="22.853" x2="39.363" y2="26.398"/>
-<line fill="none" stroke="#52702A" stroke-width="2" stroke-miterlimit="10" x1="27.265" y1="39.04" x2="27.265" y2="43.719"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="67.67" height="67.67">
+  <path fill="none" stroke="#52702A" stroke-width="2" stroke-miterlimit="10" d="M27.27 22.85v9.98M39.36 32.74v10.98"/>
+  <path fill="none" stroke="#52702A" stroke-width=".75" stroke-miterlimit="10" d="M24.16 32.83h6.21v6.21h-6.21zM36.17 26.36h6.38v6.38h-6.38z"/>
+  <path fill="none" stroke="#52702A" stroke-miterlimit="10" d="M8.83 9H57.4v48.57H8.83z"/>
+  <path fill="none" stroke="#52702A" stroke-width="2" stroke-miterlimit="10" d="M39.36 22.85v3.55M27.27 39.04v4.68"/>
 </svg>
